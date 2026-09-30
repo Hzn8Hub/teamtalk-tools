@@ -13,7 +13,7 @@ import (
 	"google.golang.org/protobuf/reflect/protoreflect"
 	"google.golang.org/protobuf/types/descriptorpb"
 
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-common/httprule"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-common/httprule"
 )
 
 func mustParse(t *testing.T, s string) httprule.Template {

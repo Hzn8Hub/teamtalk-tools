@@ -3,7 +3,7 @@ package sqlkratos
 import (
 	"path/filepath"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/generators"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/generators"
 )
 
 // wiringContext 记录目标服务的依赖装配形态与注入落点。

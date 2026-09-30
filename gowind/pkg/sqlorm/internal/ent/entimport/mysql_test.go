@@ -16,7 +16,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/sqlorm/internal/ent/entimport"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/sqlorm/internal/ent/entimport"
 )
 
 func TestMySQL(t *testing.T) {

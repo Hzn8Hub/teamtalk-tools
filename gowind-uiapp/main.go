@@ -8,7 +8,7 @@ import (
 	"github.com/wailsapp/wails/v2/pkg/options"
 	"github.com/wailsapp/wails/v2/pkg/options/assetserver"
 
-	"github.com/tx7do/go-wind-toolkit/gowind-uiapp/cli"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind-uiapp/cli"
 )
 
 //go:embed all:frontend/dist

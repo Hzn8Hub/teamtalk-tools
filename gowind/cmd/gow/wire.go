@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/wire"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/wire"
 )
 
 var wireCmd = &cobra.Command{

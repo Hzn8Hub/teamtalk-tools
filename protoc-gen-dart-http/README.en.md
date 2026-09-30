@@ -21,7 +21,7 @@ Generates Dart HTTP client code from Protobuf definitions annotated with [HTTP r
 ### Install from source
 
 ```bash
-go install github.com/tx7do/go-wind-toolkit/protoc-gen-dart-http@latest
+go install github.com/Hzn8Hub/teamtalk-tools/protoc-gen-dart-http@latest
 ```
 
 ### Download prebuilt binary

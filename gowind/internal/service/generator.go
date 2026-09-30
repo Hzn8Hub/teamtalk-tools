@@ -3,7 +3,7 @@ package service
 import (
 	"context"
 
-	pkgService "github.com/tx7do/go-wind-toolkit/gowind/pkg/service"
+	pkgService "github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/service"
 )
 
 // GeneratorOptions 服务生成器选项（委托给 pkg/service）

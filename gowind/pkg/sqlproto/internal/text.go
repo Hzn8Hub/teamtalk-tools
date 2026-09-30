@@ -9,7 +9,7 @@ import (
 
 	ddlparser "github.com/tx7do/go-utils/ddl_parser"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/schemasource"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/schemasource"
 )
 
 type Text struct {

@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-common/httprule"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-common/httprule"
 )
 
 // TestRenderRoutePath 验证从解析后模板重建的 kratos 路由注册形态:

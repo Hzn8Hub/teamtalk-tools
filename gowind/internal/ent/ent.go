@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/pkg"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/pkg"
 )
 
 // EntCmd 封装 ent 命令调用的数据和行为。

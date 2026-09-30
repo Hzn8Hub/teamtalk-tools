@@ -6,7 +6,7 @@ import (
 
 	"ariga.io/atlas/sql/schema"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/schemasource"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/schemasource"
 )
 
 // MySQL到Protobuf的类型映射

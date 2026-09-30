@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/service"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/service"
 )
 
 var addCmd = &cobra.Command{

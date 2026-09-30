@@ -5,11 +5,11 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/tx7do/go-wind-toolkit/gowind-uiapp/internal/generator"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind-uiapp/internal/generator"
 )
 
 // fixture 直接复用 gowind 的 schemasource 测试数据：uiapp/go.mod 已有
-// replace github.com/tx7do/go-wind-toolkit/gowind => ../gowind，同仓相对布局是既有前提。
+// replace github.com/Hzn8Hub/teamtalk-tools/gowind => ../gowind，同仓相对布局是既有前提。
 func entFixture(t *testing.T) string {
 	return fixture(t, filepath.Join("..", "gowind", "internal", "schemasource", "testdata", "entschema"))
 }

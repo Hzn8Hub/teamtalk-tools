@@ -9,7 +9,7 @@ import (
 
 	"google.golang.org/protobuf/reflect/protoreflect"
 
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-common/httprule"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-common/httprule"
 	"google.golang.org/genproto/googleapis/api/annotations"
 	"google.golang.org/protobuf/compiler/protogen"
 	"google.golang.org/protobuf/types/descriptorpb"

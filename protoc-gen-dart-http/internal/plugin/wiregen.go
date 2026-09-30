@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-common/protowalk"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-common/protowalk"
 	"google.golang.org/protobuf/reflect/protoreflect"
 )
 

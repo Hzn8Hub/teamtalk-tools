@@ -5,7 +5,7 @@ import (
 
 	"github.com/jinzhu/inflection"
 	"github.com/tx7do/go-utils/stringcase"
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/generators"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/generators"
 )
 
 type ProtoFieldArray []generators.ProtoField

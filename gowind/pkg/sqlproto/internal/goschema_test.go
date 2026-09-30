@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/schemasource"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/schemasource"
 )
 
 // openGoSource 通过进程级 Mux 打开 Go 源码 schema 源,验证 provider→方言→转换器 全链路。

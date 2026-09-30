@@ -22,7 +22,7 @@
 ## インストール
 
 ```bash
-go install github.com/tx7do/go-wind-toolkit/protoc-gen-go-http@latest
+go install github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-http@latest
 ```
 
 > Go 1.25+ と `protoc` コンパイラが必要です。

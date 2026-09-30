@@ -10,7 +10,7 @@ import (
 	"google.golang.org/protobuf/reflect/protoreflect"
 	"google.golang.org/protobuf/types/descriptorpb"
 
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-common/httprule"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-common/httprule"
 )
 
 // jsonwalkFixture 造出三类结构:diamond(Twice.a 与 Twice.b 指向同一个 Mid,

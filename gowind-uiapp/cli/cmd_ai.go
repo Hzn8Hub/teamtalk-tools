@@ -9,9 +9,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/tx7do/go-wind-toolkit/gowind-uiapp/internal/ai"
-	"github.com/tx7do/go-wind-toolkit/gowind-uiapp/internal/database"
-	"github.com/tx7do/go-wind-toolkit/gowind-uiapp/internal/generator"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind-uiapp/internal/ai"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind-uiapp/internal/database"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind-uiapp/internal/generator"
 )
 
 var aiCmd = &cobra.Command{

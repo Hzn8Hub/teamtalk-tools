@@ -14,7 +14,7 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/schemasource"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/schemasource"
 )
 
 func MockMySQLTableNameDoesNotUsePluralForm() *schema.Schema {

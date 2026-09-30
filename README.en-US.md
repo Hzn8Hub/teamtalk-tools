@@ -77,7 +77,7 @@ Built-in `buf generate`, `ent generate`, `wire generate`, `go mod tidy`, service
 ## Install CLI
 
 ```shell
-go install github.com/tx7do/go-wind-toolkit/gowind/cmd/gow@latest
+go install github.com/Hzn8Hub/teamtalk-tools/gowind/cmd/gow@latest
 ```
 
 ## Quick Start

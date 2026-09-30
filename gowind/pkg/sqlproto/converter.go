@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/schemasource"
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/sqlproto/internal"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/schemasource"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/sqlproto/internal"
 )
 
 type TableDataArray []*internal.TableData

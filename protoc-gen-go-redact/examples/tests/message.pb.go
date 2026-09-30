@@ -7,7 +7,7 @@
 package tests
 
 import (
-	_ "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/redact/v1"
+	_ "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/redact/v1"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	emptypb "google.golang.org/protobuf/types/known/emptypb"
@@ -1642,7 +1642,7 @@ const file_examples_tests_message_proto_rawDesc = "" +
 	"\bValueOne\x10\x01\x12\f\n" +
 	"\bValueTwo\x10\x02Bk\xba\xff+\x1b\n" +
 	"\bpassword\n" +
-	"\x06secret\x12\a\xb2\x01\x04\b\x02\x10\x02ZJgithub.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/examples/tests;testsb\x06proto3"
+	"\x06secret\x12\a\xb2\x01\x04\b\x02\x10\x02ZJgithub.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/examples/tests;testsb\x06proto3"
 
 var (
 	file_examples_tests_message_proto_rawDescOnce sync.Once

@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tx7do/go-wind-toolkit/gowind-uiapp/internal/svcname"
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/service"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind-uiapp/internal/svcname"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/service"
 )
 
 // CommandResult 命令执行结果

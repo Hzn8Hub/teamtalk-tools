@@ -5,10 +5,10 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/extract"
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/generate"
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/project"
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/run"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/extract"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/generate"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/project"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/run"
 )
 
 var rootCmd = &cobra.Command{

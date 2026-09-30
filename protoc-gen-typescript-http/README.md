@@ -16,7 +16,7 @@
 ## 安装
 
 ```bash
-go install github.com/tx7do/go-wind-toolkit/protoc-gen-typescript-http@latest
+go install github.com/Hzn8Hub/teamtalk-tools/protoc-gen-typescript-http@latest
 ```
 
 或从 [releases](../../releases) 下载预编译二进制文件。

@@ -8,8 +8,8 @@ import (
 	"github.com/AlecAivazis/survey/v2"
 	"github.com/spf13/cobra"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/pkg"
-	sqlkratos "github.com/tx7do/go-wind-toolkit/gowind/pkg/sqlkratos"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/pkg"
+	sqlkratos "github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/sqlkratos"
 )
 
 // CmdGenerate represents the generate command

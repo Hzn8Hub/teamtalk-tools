@@ -9,7 +9,7 @@ import (
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/types/pluginpb"
 
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-dart-http/internal/plugin"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-dart-http/internal/plugin"
 )
 
 func main() {

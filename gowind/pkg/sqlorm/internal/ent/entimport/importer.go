@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/schemasource"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/schemasource"
 )
 
 // Importer imports the schema from the database specified by the DSN and writes it to the schemaPath.

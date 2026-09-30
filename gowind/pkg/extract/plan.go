@@ -7,8 +7,8 @@ import (
 
 	"github.com/tx7do/go-utils/stringcase"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/pkg"
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/generators"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/pkg"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/generators"
 )
 
 // FileCopy 一对复制动作。

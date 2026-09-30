@@ -13,10 +13,10 @@ import (
 	"github.com/jinzhu/inflection"
 	"github.com/tx7do/go-utils/code_generator"
 	"github.com/tx7do/go-utils/stringcase"
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/generators"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/generators"
 
-	sqlorm "github.com/tx7do/go-wind-toolkit/gowind/pkg/sqlorm"
-	sqlproto "github.com/tx7do/go-wind-toolkit/gowind/pkg/sqlproto"
+	sqlorm "github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/sqlorm"
+	sqlproto "github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/sqlproto"
 )
 
 // ensureDSNScheme ensures the DSN has a valid scheme prefix based on the driver type.

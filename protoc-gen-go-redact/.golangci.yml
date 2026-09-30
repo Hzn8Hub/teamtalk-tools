@@ -50,7 +50,7 @@ linters-settings:
     simplify: true
 
   goimports:
-    local-prefixes: github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact
+    local-prefixes: github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact
 
   misspell:
     locale: US

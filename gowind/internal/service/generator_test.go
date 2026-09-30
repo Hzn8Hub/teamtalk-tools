@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/pkg"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/pkg"
 )
 
 func TestGenerate(t *testing.T) {

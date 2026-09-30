@@ -14,7 +14,7 @@ import (
 	"golang.org/x/mod/modfile"
 	"gorm.io/gen"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/schemasource"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/schemasource"
 )
 
 // gensrcDirName 是 DAO 回转生成期间的临时目录名,生成结束后删除。

@@ -10,7 +10,7 @@ import (
 
 	"github.com/tx7do/go-utils/code_generator"
 	"github.com/tx7do/go-utils/stringcase"
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/generators/templates/golang"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/generators/templates/golang"
 )
 
 // GoGenerator 使用 TemplateEngine 渲染并将结果写入磁盘

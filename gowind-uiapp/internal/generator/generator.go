@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/tx7do/go-wind-toolkit/gowind-uiapp/internal/database"
-	"github.com/tx7do/go-wind-toolkit/gowind-uiapp/internal/devtools"
-	sqlkratos "github.com/tx7do/go-wind-toolkit/gowind/pkg/sqlkratos"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind-uiapp/internal/database"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind-uiapp/internal/devtools"
+	sqlkratos "github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/sqlkratos"
 )
 
 // Logger 生成过程的日志接口（由调用方注入：GUI 注入 wails runtime 日志，CLI 注入标准输出）

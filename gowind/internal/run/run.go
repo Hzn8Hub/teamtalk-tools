@@ -17,8 +17,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/build"
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/pkg"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/build"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/pkg"
 )
 
 // watchEnabled 对应 --watch 旗标:监听文件变更,重建并重启受影响的服务。

@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	pgs "github.com/lyft/protoc-gen-star/v2"
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/redact/v1"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/redact/v1"
 	"google.golang.org/grpc/codes"
 )
 
@@ -290,7 +290,7 @@ func (m *Module) Process(file pgs.File) {
 
 	// Custom helper needs the redact package
 	if data.NeedCustomHelper {
-		data.Imports["redact"] = "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/redact/v1"
+		data.Imports["redact"] = "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/redact/v1"
 	}
 
 	// render file in the template

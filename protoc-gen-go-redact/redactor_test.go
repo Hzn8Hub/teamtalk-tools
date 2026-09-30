@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/redact/v1"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/redact/v1"
 )
 
 // TestRedactionDefaults tests the default redaction values for various protobuf types

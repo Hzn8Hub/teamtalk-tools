@@ -3,11 +3,11 @@ protoc-gen-redact (PGR)
 
 **[中文](README.md)** | [English](README_EN.md) | [日本語](README_JA.md)
 
-[![Build and Publish](https://github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/workflows/Build%20and%20Publish/badge.svg)](https://github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/actions)
-[![Go Report Card](https://goreportcard.com/badge/github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact?dropcache)](https://goreportcard.com/report/github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact)
-[![Go Reference](https://pkg.go.dev/badge/github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact.svg)](https://pkg.go.dev/github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact)
+[![Build and Publish](https://github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/workflows/Build%20and%20Publish/badge.svg)](https://github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact?dropcache)](https://goreportcard.com/report/github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact)
+[![Go Reference](https://pkg.go.dev/badge/github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact.svg)](https://pkg.go.dev/github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact)
 [![License](https://img.shields.io/badge/license-apache2-mildgreen.svg)](./LICENSE)
-[![GitHub release](https://img.shields.io/github/release/tx7do/go-wind-toolkit/protoc-gen-go-redact.svg)](https://github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/releases)
+[![GitHub release](https://img.shields.io/github/release/tx7do/go-wind-toolkit/protoc-gen-go-redact.svg)](https://github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/releases)
 
 _protoc-gen-redact (PGR)_ 是一个 protoc 插件，用于在服务端对 gRPC 调用中的字段值进行自动脱敏。
 
@@ -81,7 +81,7 @@ package user;
 import "redact/v1/redact.proto";
 import "google/protobuf/empty.proto";
 
-option go_package = "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/examples/user/pb;user";
+option go_package = "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/examples/user/pb;user";
 
 message User {
     string username = 1;
@@ -112,7 +112,7 @@ service Chat {
 ## 安装
 
 ```bash
-go install github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact@latest
+go install github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact@latest
 ```
 
 ---
@@ -364,7 +364,7 @@ string card = 2 [(redact.value).fixed_length = { char: "#" }];
 调用运行时注册的自定义脱敏函数。通过 `redact.RegisterCustomRedactor` 注册：
 
 ```go
-import "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/redact/v1"
+import "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/redact/v1"
 
 func init() {
     redact.RegisterCustomRedactor("myRedactor", func(s string) string {

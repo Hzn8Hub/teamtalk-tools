@@ -7,7 +7,7 @@
 package pb
 
 import (
-	_ "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/redact/v1"
+	_ "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/redact/v1"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	emptypb "google.golang.org/protobuf/types/known/emptypb"
@@ -276,7 +276,7 @@ const file_examples_user_pb_user_proto_rawDesc = "" +
 	".user.User\"\x04\xe0\xb6\x1a\x01\x12-\n" +
 	"\aGetUser\x12\x14.user.GetUserRequest\x1a\n" +
 	".user.User\"\x00\x12h\n" +
-	"\tListUsers\x12\x16.google.protobuf.Empty\x1a\x17.user.ListUsersResponse\"*\xe0\xb6\x1a\x01\xe8\xb6\x1a\x0e\xf2\xb6\x1a\x1e%service%.%method% unavailableBKZIgithub.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/examples/user/pb;pbb\x06proto3"
+	"\tListUsers\x12\x16.google.protobuf.Empty\x1a\x17.user.ListUsersResponse\"*\xe0\xb6\x1a\x01\xe8\xb6\x1a\x0e\xf2\xb6\x1a\x1e%service%.%method% unavailableBKZIgithub.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/examples/user/pb;pbb\x06proto3"
 
 var (
 	file_examples_user_pb_user_proto_rawDescOnce sync.Once

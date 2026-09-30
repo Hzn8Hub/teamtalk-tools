@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-common/goldentest"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-common/goldentest"
 )
 
 // TestGoldenExamples 用 buf 将 examples/proto 重新生成到临时目录,并与提交的

@@ -3,7 +3,7 @@ package internal
 import (
 	"testing"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/schemasource"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/schemasource"
 )
 
 // TestNewTextConvert tests the creation of a Text converter

@@ -11,7 +11,7 @@ import (
 
 	"google.golang.org/protobuf/types/descriptorpb"
 
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-common/protowalk"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-common/protowalk"
 )
 
 // testFile 合成一个覆盖嵌套消息、嵌套枚举、map 字段、重复消息字段与

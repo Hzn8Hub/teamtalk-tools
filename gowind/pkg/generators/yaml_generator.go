@@ -6,7 +6,7 @@ import (
 
 	"github.com/tx7do/go-utils/code_generator"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/generators/templates/yaml"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/generators/templates/yaml"
 )
 
 // YamlGenerator 使用 TemplateEngine 渲染并将结果写入磁盘

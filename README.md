@@ -77,7 +77,7 @@ go-wind-toolkit/
 ## 安装 CLI
 
 ```shell
-go install github.com/tx7do/go-wind-toolkit/gowind/cmd/gow@latest
+go install github.com/Hzn8Hub/teamtalk-tools/gowind/cmd/gow@latest
 ```
 
 ## 快速开始

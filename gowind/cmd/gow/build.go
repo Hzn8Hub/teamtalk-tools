@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/build"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/build"
 )
 
 func init() {

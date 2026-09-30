@@ -7,7 +7,7 @@
 package testdata
 
 import (
-	_ "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/redact/v1"
+	_ "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/redact/v1"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -1539,7 +1539,7 @@ const file_testdata_integration_test_proto_rawDesc = "" +
 	"\aGetUser\x12\x18.testdata.GetUserRequest\x1a\x15.testdata.TestMessage\x12G\n" +
 	"\x0eAdminOperation\x12\x18.testdata.GetUserRequest\x1a\x15.testdata.TestMessage\"\x04\xe0\xb6\x1a\x01\x12D\n" +
 	"\vHealthCheck\x12\x18.testdata.GetUserRequest\x1a\x15.testdata.TestMessage\"\x04ض\x1a\x01\x12@\n" +
-	"\vStreamUsers\x12\x18.testdata.GetUserRequest\x1a\x15.testdata.TestMessage0\x01BUZSgithub.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/testdata/integration;testdatab\x06proto3"
+	"\vStreamUsers\x12\x18.testdata.GetUserRequest\x1a\x15.testdata.TestMessage0\x01BUZSgithub.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/testdata/integration;testdatab\x06proto3"
 
 var (
 	file_testdata_integration_test_proto_rawDescOnce sync.Once

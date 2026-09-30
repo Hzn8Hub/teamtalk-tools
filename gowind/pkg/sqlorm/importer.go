@@ -5,8 +5,8 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/sqlorm/internal/ent/entimport"
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/sqlorm/internal/gorm"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/sqlorm/internal/ent/entimport"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/sqlorm/internal/gorm"
 )
 
 func Importer(

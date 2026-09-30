@@ -55,27 +55,27 @@
 			<div id="nav">
 				<select id="files">
 				
-				<option value="file0">github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/errors.go (24.5%)</option>
+				<option value="file0">github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/errors.go (24.5%)</option>
 				
-				<option value="file1">github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/examples/tests/message.pb.go (0.0%)</option>
+				<option value="file1">github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/examples/tests/message.pb.go (0.0%)</option>
 				
-				<option value="file2">github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/examples/tests/message.pb.redact.go (0.0%)</option>
+				<option value="file2">github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/examples/tests/message.pb.redact.go (0.0%)</option>
 				
-				<option value="file3">github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/fields.go (21.5%)</option>
+				<option value="file3">github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/fields.go (21.5%)</option>
 				
-				<option value="file4">github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/imports.go (0.0%)</option>
+				<option value="file4">github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/imports.go (0.0%)</option>
 				
-				<option value="file5">github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/main.go (0.0%)</option>
+				<option value="file5">github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/main.go (0.0%)</option>
 				
-				<option value="file6">github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/module.go (16.7%)</option>
+				<option value="file6">github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/module.go (16.7%)</option>
 				
-				<option value="file7">github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/process.go (0.0%)</option>
+				<option value="file7">github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/process.go (0.0%)</option>
 				
-				<option value="file8">github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/interface.go (0.0%)</option>
+				<option value="file8">github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/interface.go (0.0%)</option>
 				
-				<option value="file9">github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/redact.pb.go (0.0%)</option>
+				<option value="file9">github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/redact.pb.go (0.0%)</option>
 				
-				<option value="file10">github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/utils.go (96.7%)</option>
+				<option value="file10">github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/utils.go (96.7%)</option>
 				
 				</select>
 			</div>
@@ -106,7 +106,7 @@ import (
         pgs "github.com/lyft/protoc-gen-star/v2"
         "google.golang.org/grpc/codes"
 
-        "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact"
+        "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact"
 )
 
 // ErrorContext provides additional context for errors
@@ -470,7 +470,7 @@ import (
         reflect "reflect"
         sync "sync"
 
-        _ "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact"
+        _ "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact"
         protoreflect "google.golang.org/protobuf/reflect/protoreflect"
         protoimpl "google.golang.org/protobuf/runtime/protoimpl"
         emptypb "google.golang.org/protobuf/types/known/emptypb"
@@ -1721,7 +1721,7 @@ package tests
 import (
         context "context"
 
-        redact "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact"
+        redact "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact"
         grpc "google.golang.org/grpc"
         codes "google.golang.org/grpc/codes"
         status "google.golang.org/grpc/status"
@@ -2080,7 +2080,7 @@ import (
 
         pgs "github.com/lyft/protoc-gen-star/v2"
 
-        "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact"
+        "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact"
 )
 
 // processFields extracts each fields information
@@ -2452,14 +2452,14 @@ func (m *Module) importPaths(file pgs.File) (path2Alias, alias2Path map[string]s
                 "google.golang.org/grpc":                            "grpc",
                 "google.golang.org/grpc/codes":                      "codes",
                 "google.golang.org/grpc/status":                     "status",
-                "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact": "redact",
+                "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact": "redact",
         }
         alias2Path = map[string]string{
                 "context": "context",
                 "grpc":    "google.golang.org/grpc",
                 "codes":   "google.golang.org/grpc/codes",
                 "status":  "google.golang.org/grpc/status",
-                "redact":  "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact",
+                "redact":  "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact",
         }
 
         self := m.ctx.ImportPath(file).String()
@@ -2958,7 +2958,7 @@ import (
         pgs "github.com/lyft/protoc-gen-star/v2"
         "google.golang.org/grpc/codes"
 
-        "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact"
+        "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact"
 )
 
 const (

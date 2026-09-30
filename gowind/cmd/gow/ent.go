@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/ent"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/ent"
 )
 
 var entCmd = &cobra.Command{

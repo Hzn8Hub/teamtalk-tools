@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tx7do/go-wind-toolkit/gowind-uiapp/internal/redirect"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind-uiapp/internal/redirect"
 )
 
 func TestNormalizeEtcdEndpoints(t *testing.T) {

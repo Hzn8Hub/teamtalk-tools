@@ -7,7 +7,7 @@ GoWind CLI (gow) 是 GoWind Toolkit 的核心命令行入口，提供项目脚�
 ## 安装
 
 ```shell
-go install github.com/tx7do/go-wind-toolkit/gowind/cmd/gow@latest
+go install github.com/Hzn8Hub/teamtalk-tools/gowind/cmd/gow@latest
 ```
 
 验证安装：

@@ -18,7 +18,7 @@ import (
 
 	"github.com/go-openapi/inflect"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/schemasource"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/schemasource"
 )
 
 // NewImport calls the relevant data source importer based on a given dialect.

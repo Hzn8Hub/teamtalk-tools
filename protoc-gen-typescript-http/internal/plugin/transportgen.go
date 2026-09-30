@@ -1,8 +1,8 @@
 package plugin
 
 import (
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-common/codegen"
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-common/httprule"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-common/codegen"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-common/httprule"
 	"google.golang.org/protobuf/reflect/protoreflect"
 )
 

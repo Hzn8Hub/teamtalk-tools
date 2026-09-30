@@ -5,7 +5,7 @@ import (
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/reflect/protoreflect"
 
-	"github.com/tx7do/go-wind-toolkit/protoc-gen-common/protowalk"
+	"github.com/Hzn8Hub/teamtalk-tools/protoc-gen-common/protowalk"
 )
 
 // HasQueryParams reports whether the method input, combined with the rule,

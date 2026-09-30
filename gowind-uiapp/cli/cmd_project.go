@@ -3,7 +3,7 @@ package cli
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/tx7do/go-wind-toolkit/gowind-uiapp/internal/detect"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind-uiapp/internal/detect"
 )
 
 var projectCmd = &cobra.Command{

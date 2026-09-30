@@ -14,8 +14,8 @@ import (
 	"github.com/AlecAivazis/survey/v2"
 	"github.com/spf13/cobra"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/buf"
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/pkg"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/buf"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/pkg"
 )
 
 // CmdProject represents the project command.

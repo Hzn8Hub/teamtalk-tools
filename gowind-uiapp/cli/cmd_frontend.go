@@ -11,7 +11,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/frontendgen"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/frontendgen"
 )
 
 var frontendCmd = &cobra.Command{

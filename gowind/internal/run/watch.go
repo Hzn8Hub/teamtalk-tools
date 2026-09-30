@@ -18,7 +18,7 @@ import (
 
 	"github.com/fsnotify/fsnotify"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/build"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/build"
 )
 
 const (

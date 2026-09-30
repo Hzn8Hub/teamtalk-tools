@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"ariga.io/atlas/sql/schema"
-	"github.com/tx7do/go-wind-toolkit/gowind/internal/schemasource"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/internal/schemasource"
 )
 
 // TestMySQLFieldType 覆盖 SQL 类型文本 → Proto 类型的映射。

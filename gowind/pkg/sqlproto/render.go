@@ -6,9 +6,9 @@ import (
 	"strings"
 
 	"github.com/jinzhu/inflection"
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/generators"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/generators"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/sqlproto/internal/render"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/sqlproto/internal/render"
 )
 
 type ProtoField generators.ProtoField

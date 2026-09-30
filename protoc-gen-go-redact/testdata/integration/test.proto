@@ -4,7 +4,7 @@ package testdata;
 
 import "redact/v1/redact.proto";
 
-option go_package = "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/testdata/integration;testdata";
+option go_package = "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/testdata/integration;testdata";
 
 // TestMessage contains various field types and options for comprehensive testing
 message TestMessage {

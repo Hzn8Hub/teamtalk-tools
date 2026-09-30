@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/tx7do/go-wind-toolkit/gowind/pkg/generators"
+	"github.com/Hzn8Hub/teamtalk-tools/gowind/pkg/generators"
 )
 
 // 全新服务同时请求 grpc 与 websocket:grpc 逐表注册 proto 服务,websocket 作为

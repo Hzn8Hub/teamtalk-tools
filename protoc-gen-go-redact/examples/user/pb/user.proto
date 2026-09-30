@@ -5,7 +5,7 @@ package user;
 import "google/protobuf/empty.proto";
 import "redact/v1/redact.proto";
 
-option go_package = "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/examples/user/pb;pb";
+option go_package = "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/examples/user/pb;pb";
 
 message User {
   // User credentials

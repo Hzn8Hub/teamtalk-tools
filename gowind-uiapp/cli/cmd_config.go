@@ -6,7 +6,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	ce "github.com/tx7do/go-wind-toolkit/gowind-uiapp/internal/configexporter"
+	ce "github.com/Hzn8Hub/teamtalk-tools/gowind-uiapp/internal/configexporter"
 )
 
 var configCmd = &cobra.Command{

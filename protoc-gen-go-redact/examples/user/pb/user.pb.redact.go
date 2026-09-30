@@ -5,7 +5,7 @@ package pb
 
 import (
 	context "context"
-	redact "github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/redact/v1"
+	redact "github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/redact/v1"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"

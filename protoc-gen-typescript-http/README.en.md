@@ -15,7 +15,7 @@ Generates TypeScript types and service clients from Protobuf definitions annotat
 ## Installation
 
 ```bash
-go install github.com/tx7do/go-wind-toolkit/protoc-gen-typescript-http@latest
+go install github.com/Hzn8Hub/teamtalk-tools/protoc-gen-typescript-http@latest
 ```
 
 Or download a prebuilt binary from [releases](../../releases).
