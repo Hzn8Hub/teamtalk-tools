@@ -4,8 +4,6 @@ go 1.25.6
 
 require github.com/Hzn8Hub/teamtalk-tools/gowind v0.0.0
 
-<!-- replace github.com/Hzn8Hub/teamtalk-tools/gowind => ../gowind -->
-
 require (
 	github.com/go-sql-driver/mysql v1.9.3
 	github.com/jackc/pgx/v5 v5.9.2
