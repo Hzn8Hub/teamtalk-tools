@@ -1,10 +1,10 @@
-module github.com/tx7do/go-wind-toolkit/gowind-uiapp
+module github.com/Hzn8Hub/teamtalk-tools/gowind-uiapp
 
 go 1.25.6
 
-require github.com/tx7do/go-wind-toolkit/gowind v0.0.0
+require github.com/Hzn8Hub/teamtalk-tools/gowind v0.0.0
 
-replace github.com/tx7do/go-wind-toolkit/gowind => ../gowind
+<!-- replace github.com/Hzn8Hub/teamtalk-tools/gowind => ../gowind -->
 
 require (
 	github.com/go-sql-driver/mysql v1.9.3

@@ -1,10 +1,10 @@
-module github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact/examples/user
+module github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact/examples/user
 
 go 1.25.0
 
 require (
 	github.com/golang/protobuf v1.5.4
-	github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact v0.0.0-00010101000000-000000000000
+	github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact v0.0.0-00010101000000-000000000000
 	google.golang.org/grpc v1.80.0
 	google.golang.org/protobuf v1.36.11
 )
@@ -21,4 +21,3 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260420184626-e10c466a9529 // indirect
 )
 
-replace github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact => ../..

@@ -1,4 +1,4 @@
-module github.com/tx7do/go-wind-toolkit/gowind
+module github.com/Hzn8Hub/teamtalk-tools/gowind
 
 go 1.25.5
 

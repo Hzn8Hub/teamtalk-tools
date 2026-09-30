@@ -1,4 +1,4 @@
-module github.com/tx7do/go-wind-toolkit/protoc-gen-go-redact
+module github.com/Hzn8Hub/teamtalk-tools/protoc-gen-go-redact
 
 go 1.25.0
 

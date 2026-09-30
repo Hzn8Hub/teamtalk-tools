@@ -1,4 +1,4 @@
-module github.com/tx7do/go-wind-toolkit/protoc-gen-common
+module github.com/Hzn8Hub/teamtalk-tools/protoc-gen-common
 
 go 1.25.0
 
